@@ -1,6 +1,6 @@
 # vue_basic
 
-VUE基础语法资料
+VUE基础语法资料1
 
 ## Getting started
 
